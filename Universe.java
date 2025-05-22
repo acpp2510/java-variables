@@ -4,14 +4,14 @@ public class Universe {
         //Java no permite una variable de tipo int, mayor que 2 147 483 647 por lo que la polación mundial no cabe en un int.
         //Intenta hacer una variable de tipo int con el valor de la población actual y mira el error.
         //Escribe aquí tu código
-        //int population = 8118302456;
+        int population = 8118302456;
 
         //Para poder almacenar la población mundial tenemos que definir el tipo de dato long que almacena un valor de hasta 9 223 372 036 854 775 807 
-        //long populationMundial = 8118302456;
+
         //Para ello define una variable de tipo long con ese valor
 
         //Escribe aquí tu código
-
+        long populationMundial = 8118302456;
 
         //¿Te sale el mismo error que el anterior?
         //Eso es debido a que cuando definimos una variable de tipo long debemos poner una L al final del último número.
